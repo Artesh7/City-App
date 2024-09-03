@@ -1,0 +1,14 @@
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\bin\Debug\TankS.exe.config
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\bin\Debug\TankS.exe
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\bin\Debug\TankS.pdb
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.csproj.AssemblyReference.cache
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.csproj.SuggestedBindingRedirects.cache
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.Properties.Resources.resources
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.csproj.GenerateResource.cache
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.csproj.CoreCompileInputs.cache
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.exe
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.pdb
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.Form1.resources
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\bin\Debug\NAudio.dll
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\bin\Debug\NAudio.xml
+C:\Users\artes\OneDrive - ViaUC\Repos\City-App\SolutionT\obj\Debug\TankS.csproj.CopyComplete
